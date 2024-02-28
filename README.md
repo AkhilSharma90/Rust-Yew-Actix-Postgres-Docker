@@ -1,6 +1,8 @@
 # Build a Full Stack App with Rust, Yew.rs and Actix Web
 
-Note from Akhil - Please watch the videos on actix, postgres (coming soon on my channel) and yew (coming soon) before you watch the video for this project and build it with me. This project is a bit on the difficult side.
+Note from Akhil - 
+1. Before you do this project, make sure you Please watch the video preceeding this on from my youtube playlist first - https://youtube.com/playlist?list=PL5dTjWUk_cPYuhHm9_QImW7_u4lr5d6zO&si=PijWdMxQwWFUE7H0
+2. Please watch the videos on actix, postgres (coming soon on my channel) and yew (coming soon) before you watch the video for this project and build it with me. This project is a bit on the difficult side.
 
 In this project, I'll walk you through the process of building a backend API using the Actix web framework, SQLX, PostgreSQL, and Docker. Once we've created a powerful backend, we'll move on to building a single-page app using the Yew.rs framework. By the end of this tutorial, you'll have a fully functional web app that seamlessly integrates the frontend app with the backend API.
 
